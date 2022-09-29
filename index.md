@@ -35,7 +35,7 @@ My favorite movie is [Interstellar](https://www.imdb.com/title/tt0816692/).
 - [ ] Get good grades
 
 ## Ending
-In the end, I want to share a piece of code to everyone:
+In the end, I want to share a piece of code with everyone:
 
 ```
 if(sad()==true){
